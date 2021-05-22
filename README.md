@@ -1,14 +1,12 @@
 ### Hi  🙋‍♂️
-Here is what I'm working on,
+I am <strong> Abdur Rashid Sawom </strong> . Currently I am studying in Computer Science and Engineering at University of Asia Pacific. I am currently learning Python. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... anything. If I don't know google is there 🤷‍♂️
-- 📫 How to reach me: 
-Facebook: https://www.facebook.com/profile.php?id=100008733311858
-Email: asawom250@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills I have
+- Languages : C, Cpp , Java , Python
+- Database: MySQL
+- HTML, CSS
+- Proper knowledge of Github
+
+### 📫 How to reach me: 
+br><strong>Email : </strong>  asawom250@gmail.com
+[![Facebook](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=facebook&logoColor=ffffff)]        https://www.facebook.com/profile.php?id=100008733311858 
