@@ -9,5 +9,4 @@ I am <strong> Abdur Rashid Sawom </strong> . Currently I am studying in Computer
 
 ### 📫 How to reach me: 
 - <br><strong>Email : </strong>  asawom250@gmail.com
-
-- - <br><strong>Facebook: </strong>  https://www.facebook.com/profile.php?id=100008733311858 
+- <br><strong>Facebook: </strong>  https://www.facebook.com/profile.php?id=100008733311858 
