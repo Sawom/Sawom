@@ -8,5 +8,6 @@ I am <strong> Abdur Rashid Sawom </strong> . Currently I am studying in Computer
 - Proper knowledge of Github
 
 ### 📫 How to reach me: 
-br><strong>Email : </strong>  asawom250@gmail.com
-[![Facebook](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=facebook&logoColor=ffffff)]        https://www.facebook.com/profile.php?id=100008733311858 
+- <br><strong>Email : </strong>  asawom250@gmail.com
+
+- - <br><strong>Facebook: </strong>  https://www.facebook.com/profile.php?id=100008733311858 
