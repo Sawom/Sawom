@@ -8,7 +8,6 @@ Here is what I'm working on,
 - 💬 Ask me about ... anything. If I don't know google is there 🤷‍♂️
 - 📫 How to reach me: 
 Facebook: https://www.facebook.com/profile.php?id=100008733311858
-
 Email: asawom250@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
