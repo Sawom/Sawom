@@ -5,6 +5,7 @@ I am <strong> Abdur Rashid Sawom </strong> . Currently I am studying in Computer
 - Languages : C, Cpp , Java , Python
 - Database: MySQL
 - HTML, CSS
+- bootstrap, tailwind
 - Proper knowledge of Github
 
 ### 📫 Reach me at: 
