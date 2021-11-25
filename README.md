@@ -3,7 +3,7 @@ my name is <strong> Abdur Rashid Sawom </strong> <br>
 
 ![kisspng-web-development-web-developer-web-design-web-development-5afd66934ea449 9607081515265563073221](https://user-images.githubusercontent.com/64780532/119230147-cefc3880-bb3c-11eb-8314-ebbf2bebc4a4.png))
 
-##Skills: 
+## Skills: 
 - Languages : C, Cpp , Java , Python , JavaScript 
 - Database: MySQL
 -  HTML, CSS  
