@@ -1,8 +1,15 @@
-## Hi  🙋‍♂️ , my name is <strong> Abdur Rashid Sawom </strong>
+## Hi  🙋‍♂️ ,<br> 
+my name is <strong> Abdur Rashid Sawom </strong> <br>
 
 ![kisspng-web-development-web-developer-web-design-web-development-5afd66934ea449 9607081515265563073221](https://user-images.githubusercontent.com/64780532/119230147-cefc3880-bb3c-11eb-8314-ebbf2bebc4a4.png))
 
-Skills: Languages : C, Cpp , Java , Python/ Database: MySQL / JS / HTML / CSS / bootstrap, tailwind / Proper knowledge of Github
+##Skills: 
+- Languages : C, Cpp , Java , Python , JavaScript 
+- Database: MySQL
+-  HTML, CSS  
+-  bootstrap, tailwind 
+-  Problem solving
+-  Proper knowledge of Github
 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on github 
