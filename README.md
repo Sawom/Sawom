@@ -28,8 +28,7 @@ I am a student and study in University of Asia Pacific. A hard working person an
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sawom&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sawom)  
-
-![GitHub metrics](https://metrics.lecoq.io/Sawom)  
+ 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sawom)  
 
