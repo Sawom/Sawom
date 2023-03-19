@@ -6,7 +6,7 @@ I am a student and study in University of Asia Pacific. A hard working person an
 <br>
 ## Skills: 
 - Languages : C, Cpp , Java , Python , JavaScript 
-- Database: MySQL
+- Database: MySQL, MongoDB
 -  HTML, CSS  
 -  bootstrap, tailwind 
 -  Problem solving
