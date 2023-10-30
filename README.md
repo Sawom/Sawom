@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **next js, redux.**
 
-- 💬 Ask me about **react, node js, mongoDb, node js.**
+- 💬 Ask me about **react, express js, mongoDb, node js.**
 
 - 📫 How to reach me **asawom250@gmail.com**
 
