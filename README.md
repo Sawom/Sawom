@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sawom&show_icons=true&locale=en" alt="sawom" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sawom&" alt="sawom" /></p>
+<p><img align="center" src="https://i.ibb.co/mFFCpKv/animation-loejejjn-transparent.gif" alt="sawom" /></p>
