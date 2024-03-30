@@ -27,4 +27,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sawom&" alt="sawom" /></p>
 
-<p><img align="center" src="https://i.ibb.co/xDYQM1J/animation-loejgyjy-large.gif" alt="sawom" /></p>
