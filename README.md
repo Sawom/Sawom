@@ -20,21 +20,21 @@
 ## 🛠️ Languages & Tools
 
 <div align="center">
-  <a href="#" title="HTML5"><img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="#" title="CSS3"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-  <a href="#" title="JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-  <a href="#" title="React"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
-  <a href="#" title="Bootstrap"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
+  <a href="#" title="HTML5"><img src="https://skillicons.dev/icons?i=html" width="50" height="50" /></a>
+  <a href="#" title="CSS3"><img src="https://skillicons.dev/icons?i=css" width="50" height="50" /></a>
+  <a href="#" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="50" height="50" /></a>
+  <a href="#" title="React"><img src="https://skillicons.dev/icons?i=react" width="50" height="50" /></a>
+  <a href="#" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" /></a>
   <br />
-  <a href="#" title="Node.js"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a>
-  <a href="#" title="Express.js"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
-  <a href="#" title="MongoDB"><img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
-  <a href="#" title="Firebase"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a>
+  <a href="#" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" /></a>
+  <a href="#" title="Express.js"><img src="https://skillicons.dev/icons?i=express" width="50" height="50" /></a>
+  <a href="#" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" /></a>
+  <a href="#" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" /></a>
   <br />
-  <a href="#" title="Git"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="#" title="GitHub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#" title="Docker"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-  <a href="#" title="Figma"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
+  <a href="#" title="Git"><img src="https://skillicons.dev/icons?i=git" width="50" height="50" /></a>
+  <a href="#" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="50" height="50" /></a>
+  <a href="#" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="50" height="50" /></a>
+  <a href="#" title="Figma"><img src="https://skillicons.dev/icons?i=figma" width="50" height="50" /></a>
 </div>
 
 ## 📊 GitHub Stats
