@@ -1,13 +1,18 @@
-<h1 align="center">Hi 👋, I'm Abdur Rashid Sawom</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sawom&label=Profile%20views&color=0e75b6&style=flat" alt="sawom" /> </p>
+<br>
+
+<h2 align="center">Hi 👋, I'm Abdur Rashid Sawom</h2>
 <h3 align="center">MERN Stack Developer | Full-Stack Web Development | From Bangladesh</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Learning+AI+%26+ML" alt="Typing SVG" />
 </p>
 
+<p> I'm a passionate MERN (MongoDB, Express, React, Node.js) stack developer with a love for crafting innovative web applications. My journey in the world of software development has been a thrilling adventure, and I'm here to share my experiences and work with the global tech community. </p>
+
 ---
 
-## 🙋 About Me
+## About Me
 
 - 🔭 MERN Stack Developer with passion for building scalable web applications
 - 🌱 Currently learning **AI & Machine Learning**
@@ -20,7 +25,6 @@
 ## 🛠️ Languages & Tools
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <a href="#" ><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" />
