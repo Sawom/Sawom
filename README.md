@@ -19,22 +19,37 @@
 
 ## 🛠️ Languages & Tools
 
-<div >
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+  <a href="#" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="50" height="50" /></a>
+  <a href="#" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="50" height="50" /></a>
   <a href="#" title="HTML5"><img src="https://skillicons.dev/icons?i=html" width="50" height="50" /></a>
   <a href="#" title="CSS3"><img src="https://skillicons.dev/icons?i=css" width="50" height="50" /></a>
-  <a href="#" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="50" height="50" /></a>
   <a href="#" title="React"><img src="https://skillicons.dev/icons?i=react" width="50" height="50" /></a>
   <a href="#" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" /></a>
+  <a href="#" title="Tailwind"><img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" /></a>
+  <a href="#" title="Material UI"><img src="https://skillicons.dev/icons?i=materialui" width="50" height="50" /></a>
+  <a href="#" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" /></a>
+  <a href="#" title="Redux"><img src="https://skillicons.dev/icons?i=redux" width="50" height="50" /></a>
   <br />
   <a href="#" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" /></a>
   <a href="#" title="Express.js"><img src="https://skillicons.dev/icons?i=express" width="50" height="50" /></a>
   <a href="#" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" /></a>
   <a href="#" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" /></a>
+  <a href="#" title="Prisma"><img src="https://skillicons.dev/icons?i=prisma" width="50" height="50" /></a>
+  <a href="#" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50" /></a>
+  <a href="#" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" /></a>
+  <a href="#" title="Ant Design"><img src="https://skillicons.dev/icons?i=antd" width="50" height="50" /></a>
+  <a href="#" title="JWT"><img src="https://skillicons.dev/icons?i=jwt" width="50" height="50" /></a>
+  <a href="#" title="REST API"><img src="https://skillicons.dev/icons?i=postman" width="50" height="50" /></a>
   <br />
-  <a href="#" title="Git"><img src="https://skillicons.dev/icons?i=git" width="50" height="50" /></a>
-  <a href="#" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="50" height="50" /></a>
   <a href="#" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="50" height="50" /></a>
+  <a href="#" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="50" height="50" /></a>
+  <a href="#" title="Git"><img src="https://skillicons.dev/icons?i=git" width="50" height="50" /></a>
+  <a href="#" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" /></a>
+  <a href="#" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" /></a>
+  <a href="#" title="Netlify"><img src="https://skillicons.dev/icons?i=netlify" width="50" height="50" /></a>
   <a href="#" title="Figma"><img src="https://skillicons.dev/icons?i=figma" width="50" height="50" /></a>
+  <a href="#" title="Jira"><img src="https://skillicons.dev/icons?i=jira" width="50" height="50" /></a>
 </div>
 
 ## 📊 GitHub Stats
