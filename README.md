@@ -19,7 +19,7 @@
 
 ## 🛠️ Languages & Tools
 
-<div align="center">
+<div >
   <a href="#" title="HTML5"><img src="https://skillicons.dev/icons?i=html" width="50" height="50" /></a>
   <a href="#" title="CSS3"><img src="https://skillicons.dev/icons?i=css" width="50" height="50" /></a>
   <a href="#" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="50" height="50" /></a>
