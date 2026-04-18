@@ -19,37 +19,41 @@
 
 ## 🛠️ Languages & Tools
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-  <a href="#" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="50" height="50" /></a>
-  <a href="#" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="50" height="50" /></a>
-  <a href="#" title="HTML5"><img src="https://skillicons.dev/icons?i=html" width="50" height="50" /></a>
-  <a href="#" title="CSS3"><img src="https://skillicons.dev/icons?i=css" width="50" height="50" /></a>
-  <a href="#" title="React"><img src="https://skillicons.dev/icons?i=react" width="50" height="50" /></a>
-  <a href="#" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" /></a>
-  <a href="#" title="Tailwind"><img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" /></a>
-  <a href="#" title="Material UI"><img src="https://skillicons.dev/icons?i=materialui" width="50" height="50" /></a>
-  <a href="#" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" /></a>
-  <a href="#" title="Redux"><img src="https://skillicons.dev/icons?i=redux" width="50" height="50" /></a>
-  <br />
-  <a href="#" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" /></a>
-  <a href="#" title="Express.js"><img src="https://skillicons.dev/icons?i=express" width="50" height="50" /></a>
-  <a href="#" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" /></a>
-  <a href="#" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" /></a>
-  <a href="#" title="Prisma"><img src="https://skillicons.dev/icons?i=prisma" width="50" height="50" /></a>
-  <a href="#" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50" /></a>
-  <a href="#" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" /></a>
-  <a href="#" title="Ant Design"><img src="https://skillicons.dev/icons?i=antd" width="50" height="50" /></a>
-  <a href="#" title="JWT"><img src="https://skillicons.dev/icons?i=jwt" width="50" height="50" /></a>
-  <a href="#" title="REST API"><img src="https://skillicons.dev/icons?i=postman" width="50" height="50" /></a>
-  <br />
-  <a href="#" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="50" height="50" /></a>
-  <a href="#" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="50" height="50" /></a>
-  <a href="#" title="Git"><img src="https://skillicons.dev/icons?i=git" width="50" height="50" /></a>
-  <a href="#" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" /></a>
-  <a href="#" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" /></a>
-  <a href="#" title="Netlify"><img src="https://skillicons.dev/icons?i=netlify" width="50" height="50" /></a>
-  <a href="#" title="Figma"><img src="https://skillicons.dev/icons?i=figma" width="50" height="50" /></a>
-  <a href="#" title="Jira"><img src="https://skillicons.dev/icons?i=jira" width="50" height="50" /></a>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=restapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-0078D4?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+ 
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </div>
 
 ## 📊 GitHub Stats
