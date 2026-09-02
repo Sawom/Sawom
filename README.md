@@ -22,10 +22,10 @@
 
 ---
 
-<!-- 🛠️ Languages & Tools Section -->
+<!--  Languages & Tools Section -->
 <h2>🛠️ Languages & Tools</h2>
 
-<h3>💻 Programming Languages</h3>
+<h3> Programming Languages</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </div>
 
-<h3>🎨 Frontend Development</h3>
+<h3> Frontend Development</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -50,16 +50,17 @@
   <img src="https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 </div>
 
-<h3>⚙️ Backend & APIs</h3>
+<h3> Backend & APIs</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=restapi&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </div>
 
-<h3>🗄️ Database & ORM</h3>
+<h3> Database & ORM</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -67,7 +68,7 @@
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </div>
 
-<h3>🚀 DevOps & Cloud Platform</h3>
+<h3> DevOps & Cloud Platform</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-0078D4?style=for-the-badge&logo=githubactions&logoColor=white" />
@@ -75,7 +76,7 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </div>
 
-<h3>🛠️ Tools & Software</h3>
+<h3> Tools & Software</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
